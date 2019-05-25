@@ -1,6 +1,8 @@
 # react-waterfall
 
-React store built on top of [the new context API](https://reactjs.org/docs/context.html)
+## DEPRECATED
+
+Please use [upstream repo/package](https://github.com/didierfranc/react-waterfall) instead
 
 ## Basics
 
